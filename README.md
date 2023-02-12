@@ -1,3 +1,3 @@
-## Meu Site Pessoal 👨‍💻
+## Curso HTML 5 e CSS 3 - DIO 👨‍💻
 
-# Olá, seja bem-vindo(a) ao meu site pessoal. 
+Repositório criado para desenvolver meu site pessoal usando HTML 5 e CSS 3.
